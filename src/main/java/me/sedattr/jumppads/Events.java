@@ -8,7 +8,7 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.entity.EntityDamageEvent;
 import org.bukkit.event.player.PlayerTeleportEvent;
 import org.bukkit.scheduler.BukkitRunnable;
-import org.spigotmc.event.entity.EntityDismountEvent;
+import org.bukkit.event.entity.EntityDismountEvent;
 
 public class Events implements Listener {
     @EventHandler
